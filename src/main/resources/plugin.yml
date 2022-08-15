@@ -1,0 +1,21 @@
+name: Lobby
+version: '${project.version}'
+main: de.trollagent.lobby.Lobby
+api-version: 1.18
+authors: [ Trollagent ]
+commands:
+  setwarp:
+    usage: /setwarp [name]
+    description: Set a Warp.
+
+  warp:
+    usage: /warp [name]
+    description: Warp to a Warp.
+
+  delwarp:
+    usage: /delwarp [name]
+    description: Delete a Warp
+
+  build:
+    usage: /build
+    description: Sets you in the BuildMode

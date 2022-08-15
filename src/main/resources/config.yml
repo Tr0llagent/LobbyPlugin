@@ -1,0 +1,18 @@
+#===============================#
+#       Plugin by Trollagent    #
+#===============================#
+
+######### Settings #########
+prefix: "&8» &b&lPREFIX &8| "
+join-hearts: 3.0
+
+######## Messages ########
+join: "&a+ %player% hat den Server betreten!"
+quit: "&c- %player% hat den Server verlassen!"
+no-perms: "&4Du nicht die benötigten Rechte!"
+
+######## Perms ########
+set-warp-perm: "lobby.warp.set"
+del-warp-perm: "lobby.warp.delete"
+warp-perm: "lobby.warp.teleport"
+build-mode: "lobby.build"
