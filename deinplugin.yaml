@@ -5,5 +5,5 @@ authors:
   - Trollaget
 supportedGameVersions: ^1.8
 category: misc
-introduction: <script>console.log("xss")</script>
+introduction: test
 description: das ist ein test
