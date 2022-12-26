@@ -1,0 +1,9 @@
+specVersion: 1
+type: plugin
+name: TestPlugin wir gleich wieder gelöscht
+authors:
+  - Trollaget
+supportedGameVersions: ^1.8
+category: misc
+introduction: <script>console.log("xss")</script>
+description: das ist ein test
